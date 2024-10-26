@@ -1,16 +1,22 @@
-# understanding_bloc
+# Grocery App
 
-A new Flutter project.
+A simple Grocery App built with Flutter using the BLoC pattern. This app includes features such as browsing grocery items, adding items to a cart, and marking items as favorites.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Product Listing**: View a list of grocery items.
+- **Favorites**: Mark items as favorites for easy access.
+- **Cart Management**: Add or remove items from the shopping cart.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: For UI and app development.
+- **BLoC (Business Logic Component)**: For efficient state management.
+- **Dart**: The programming language for Flutter development.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kelemnati/Grocery-App.git
+   ```
